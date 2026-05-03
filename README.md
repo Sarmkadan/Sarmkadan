@@ -10,8 +10,8 @@
 
 ## About
 
-CTO & Software Architect with 10+ years in software engineering, building indie SaaS products by night.
-10+ years in software engineering, specializing in C#/.NET, databases, and cloud architecture.
+CTO & Software Architect with 10+ years in software engineering, specializing in C#/.NET, databases, and cloud architecture.
+Building indie SaaS products by night.
 Focused on backend systems, data engineering, and turning ideas into shipped products.
 
 ---
