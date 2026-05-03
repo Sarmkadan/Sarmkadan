@@ -4,14 +4,14 @@
   <strong>CTO at Red Rocket Software &nbsp;|&nbsp; Indie Maker</strong><br/>
   📍 Sofia, Bulgaria &nbsp;&nbsp;·&nbsp;&nbsp;
   🌐 <a href="https://sarmkadan.com">sarmkadan.com</a> &nbsp;&nbsp;·&nbsp;&nbsp;
-  🏢 <a href="https://redrocket.software">redrocket.software</a>
+  🏢 <a href="https://sarmkadan.com">sarmkadan.com</a>
 </p>
 
 ---
 
 ## About
 
-CTO managing 22 engineers at [Red Rocket Software](https://redrocket.software) by day, building indie SaaS products by night.
+CTO managing 22 engineers at CTO & Software Architect by day, building indie SaaS products by night.
 10+ years in software engineering, specializing in C#/.NET, databases, and cloud architecture.
 Focused on backend systems, data engineering, and turning ideas into shipped products.
 
@@ -24,7 +24,7 @@ Focused on backend systems, data engineering, and turning ideas into shipped pro
 | [**WTB.land**](https://wtb.land) | Secondhand marketplace for Europe — buyers post requests, sellers compete |
 | [**HarvestDashboard**](https://zeppdashboard.sarmkadan.com) | Health analytics dashboard for Zepp / Amazfit wearables |
 | [**BinanceSaaS**](https://p2p.saas.sarmkadan.com) | Multi-tenant P2P crypto trading automation platform |
-| [**FleetTrack**](https://fleet.redrocket.software) | GPS fleet management platform for vehicle tracking |
+| [**FleetTrack**](https://fleet.sarmkadan.com) | GPS fleet management platform for vehicle tracking |
 | **Coub2Shorts** | Automated YouTube Shorts pipeline |
 
 ---
