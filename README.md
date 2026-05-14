@@ -1,6 +1,6 @@
 # Vladyslav Zaiets
 
-**CTO & Software Architect** at Red Rocket Software. Sofia, Bulgaria.
+**Software Architect & Full-Stack Developer.** Sofia, Bulgaria.
 
 Building production systems, internal tools, and developer infrastructure.
 
@@ -22,7 +22,7 @@ Building production systems, internal tools, and developer infrastructure.
 - Architect and ship full-stack systems (.NET, Node.js, React, Flutter)
 - Build internal tools - timesheets, approvals, fleet tracking, dashboards
 - Set up infrastructure - AWS, Hetzner, Caddy, systemd, CI/CD
-- Lead a team of 20+ engineers across multiple projects
+- Lead engineering teams across multiple projects
 
 ### Stack
 
