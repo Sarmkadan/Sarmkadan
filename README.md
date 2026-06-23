@@ -1,90 +1,80 @@
 # Vladyslav Zaiets
 
-**Software Architect & Full-Stack Developer** | Founder at [SarmkadanLTD](https://sarmkadan.com)
+**Software Architect** | .NET, distributed systems, real-time platforms
 
-10+ years in software engineering. Building production systems from scratch - from architecture to deployment. Running a development studio that delivers web platforms, mobile apps, cloud infrastructure, and custom business tools.
+10+ years building production systems - from database schema to Kubernetes cluster. I architect, code, deploy, and maintain. 50+ open-source .NET libraries and tools.
 
 [![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)](#)
-[![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)](#)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)](#)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](#)
-[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](#)
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](#)
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)](#)
+[![.NET](https://img.shields.io/badge/.NET_10-512BD4?style=flat-square&logo=dotnet&logoColor=white)](#)
+[![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)](#)
+[![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logo=google&logoColor=white)](#)
+[![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white)](#)
+[![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)](#)
 [![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)](#)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](#)
 [![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)](#)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](#)
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)](#)
-[![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)](#)
-[![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logo=google&logoColor=white)](#)
-[![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white)](#)
-[![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)](#)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](#)
+[![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=flat-square&logo=dotnet&logoColor=white)](#)
+[![Roslyn](https://img.shields.io/badge/Roslyn-68217A?style=flat-square&logo=visualstudio&logoColor=white)](#)
 
 ---
 
-## What I do
+### Open Source
 
-**Architecture & Engineering** - Design and build distributed systems, microservices, monoliths, APIs, real-time platforms. Strong focus on SOLID, clean architecture, and database design.
+I maintain 50+ .NET libraries covering distributed systems patterns, developer tools, and infrastructure:
 
-**Internal Tools** - Timesheets, approval workflows, fleet tracking, dashboards, Telegram bots, automation pipelines - everything a company needs to run efficiently.
+**Architecture Patterns**
+- [dotnet-cqrs-eventsourcing](https://github.com/sarmkadan/dotnet-cqrs-eventsourcing) - CQRS + Event Sourcing with snapshots, projections, and replay
+- [dotnet-saga-orchestrator](https://github.com/sarmkadan/dotnet-saga-orchestrator) - Saga pattern with compensating transactions and circuit breakers
+- [dotnet-outbox-pattern](https://github.com/sarmkadan/dotnet-outbox-pattern) - Transactional outbox for guaranteed message delivery
+- [dotnet-actor-framework](https://github.com/sarmkadan/dotnet-actor-framework) - Lightweight actor model with typed mailboxes and supervision
 
-**Infrastructure** - AWS, Hetzner, Docker, Caddy, systemd, CI/CD pipelines. Full lifecycle from provisioning to monitoring. Zero-downtime deployments.
+**Developer Tools**
+- [roslyn-guard-analyzer](https://github.com/sarmkadan/roslyn-guard-analyzer) - Roslyn analyzer enforcing architectural rules at compile time
+- [sql-query-analyzer](https://github.com/sarmkadan/sql-query-analyzer) - Detect N+1, missing indexes, and slow queries before production
+- [ef-migration-diff](https://github.com/sarmkadan/ef-migration-diff) - Visual diffs for EF Core migrations with conflict detection
+- [dotnet-source-generator-toolkit](https://github.com/sarmkadan/dotnet-source-generator-toolkit) - Incremental source generator helpers and diagnostics
 
-**Team Leadership** - Managing 20+ engineers. Code reviews, architecture decisions, mentoring, sprint planning. Hands-on CTO, not a slideware manager.
+**Infrastructure & Real-time**
+- [grpc-web-bridge](https://github.com/sarmkadan/grpc-web-bridge) - gRPC-Web protocol translation for browser clients
+- [signalr-map-realtime](https://github.com/sarmkadan/signalr-map-realtime) - Real-time location tracking with SignalR + Leaflet
+- [docker-sqlite-backup](https://github.com/sarmkadan/docker-sqlite-backup) - Automated SQLite backups with WAL-safe snapshots
+- [api-key-gateway](https://github.com/sarmkadan/api-key-gateway) - API key management with rate limiting and usage analytics
 
-**Client Projects** - Web platforms, mobile apps (Flutter, React Native), e-commerce, CRM/ERP systems, fintech dashboards, healthcare portals.
+**Integrations**
+- [redis-cache-patterns](https://github.com/sarmkadan/redis-cache-patterns) - Cache-aside, write-through, stampede prevention
+- [binance-p2p-monitor](https://github.com/sarmkadan/binance-p2p-monitor) - Real-time P2P price monitoring with WebSocket feeds
+- [notion-task-sync](https://github.com/sarmkadan/notion-task-sync) - Bidirectional sync between Notion and local task stores
+- [ffmpeg-dotnet-wrapper](https://github.com/sarmkadan/ffmpeg-dotnet-wrapper) - Type-safe FFmpeg wrapper with progress reporting
 
----
-
-## Tech Stack
-
-| Layer | Technologies |
-|-------|-------------|
-| **Backend** | C#, .NET 10, ASP.NET Core, gRPC-Web, EF Core, Node.js, Express, Go |
-| **Frontend** | Blazor SSR, React, Next.js, Vanilla JS, TypeScript |
-| **Mobile** | Flutter, React Native |
-| **Databases** | PostgreSQL, SQLite, Redis, MS SQL, raw SQL |
-| **Cloud & Infra** | AWS (EC2, RDS, S3, CloudFront), Azure, Hetzner, Docker, Caddy |
-| **DevOps** | GitHub Actions, Coolify, systemd, Playwright, CI/CD |
-| **Integrations** | Telegram Bot API, Google APIs (Calendar, Gmail, Sheets, Drive), Stripe, Jira, Notion |
-| **Media** | FFmpeg, SkiaSharp, NAudio, OpenCL |
-
----
-
-## Featured Work
-
-**Approval System** - Multi-level approval workflow with configurable routes, decision options, audit log, real-time notifications, analytics dashboard. .NET + Blazor SSR + SQLite.
-
-**Timesheet Platform** - Full timesheet system with calendar, overtime tracking, salary management, streak system, external API for integrations. .NET + gRPC-Web + Vanilla JS.
-
-**Fleet Tracking** - Real-time GPS tracking platform with live map, geofencing, trip history, driver management. .NET + SignalR + Leaflet.
-
-**P2P Trading Monitor** - Multi-tenant Binance P2P monitoring with WebSocket feeds, Telegram alerts, rate analytics.
-
-**Lead Collector** - Automated lead generation and management platform with contact enrichment and CRM integration.
+[**See all 50+ repositories ->**](https://github.com/sarmkadan?tab=repositories&q=dotnet&type=public&language=c%23&sort=stargazers)
 
 ---
 
-## SarmkadanLTD
+### What I Build
 
-I run [**SarmkadanLTD**](https://sarmkadan.com) - a development studio focused on delivering complete technical solutions:
+| Domain | Stack |
+|--------|-------|
+| **Distributed Systems** | CQRS, Event Sourcing, Saga, Outbox, Actor Model |
+| **Real-time Platforms** | SignalR, gRPC streaming, WebSockets |
+| **API Design** | REST, gRPC-Web, GraphQL, API gateways |
+| **Data Engineering** | PostgreSQL, SQLite, Redis, EF Core, raw SQL |
+| **DevOps** | Docker, GitHub Actions, Caddy, systemd, zero-downtime deploys |
+| **Code Quality** | Roslyn analyzers, source generators, architectural fitness functions |
+| **Media Processing** | FFmpeg, SkiaSharp, NAudio, GPU compute (OpenCL) |
 
-- Custom web & mobile development
-- Cloud architecture and DevOps
-- Business analytics and process automation
-- 24/7 support and maintenance
-- Security compliance (PCI-DSS)
+---
 
-We've shipped 50+ projects across fintech, healthcare, e-commerce, real estate, gaming, and enterprise.
+### Stats
 
-> **Looking for a dev team or technical partner?** Check out [sarmkadan.com](https://sarmkadan.com) or reach out directly.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarmkadan&show_icons=true&theme=github_dark&hide_border=true&count_private=false&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarmkadan&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
 
 ---
 
 ### Contact
 
-[![Website](https://img.shields.io/badge/Website-sarmkadan.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sarmkadan.com)
-[![Telegram](https://img.shields.io/badge/Telegram-@sarmkadan-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sarmkadan)
-[![Email](https://img.shields.io/badge/Email-rutova2@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rutova2@gmail.com)
+[![Website](https://img.shields.io/badge/sarmkadan.com-000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sarmkadan.com)
+[![Telegram](https://img.shields.io/badge/@sarmkadan-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sarmkadan)
+[![Email](https://img.shields.io/badge/rutova2@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rutova2@gmail.com)
